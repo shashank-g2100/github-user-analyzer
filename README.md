@@ -5,6 +5,8 @@ A React + ShadCN + TypeScript web app that allows you to input a GitHub username
 - ✅ List of their public repositories  
 - 📊 (Advanced) Daily commit chart (if available from events API)
 
+🔗 **Live Demo**: [Github-User-Analyzer](https://v0-github-user-analyzer-vqdrvj.vercel.app/)  
+
 ---
 
 ## 🚀 Technologies Used
